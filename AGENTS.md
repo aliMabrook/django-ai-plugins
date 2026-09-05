@@ -1,5 +1,6 @@
 # Contributor instructions
 
+
 ## Source of truth
 
 - `plugins/catalog.json` owns plugin IDs, versions, descriptions, packages,
